@@ -1,0 +1,3 @@
+django-admin startproject books_project
+cd books_project
+django-admin startapp books
